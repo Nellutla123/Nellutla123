@@ -84,7 +84,7 @@ Experienced in developing **intelligent applications, MLOps pipelines**, and rea
 ## 🐍 GitHub Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/Nellutla123/Nellutla123/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Nellutla123/Nellutla123/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
