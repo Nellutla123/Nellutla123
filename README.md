@@ -63,7 +63,7 @@ Experienced in developing **intelligent applications, MLOps pipelines**, and rea
 ## 📊 GitHub Metrics  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikhilNellutla&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nellutla123&theme=radical" />
 </p>
 
 ---
@@ -71,12 +71,12 @@ Experienced in developing **intelligent applications, MLOps pipelines**, and rea
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikhilNellutla&show_icons=true&theme=radical&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilNellutla&layout=compact&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nellutla123&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nellutla123&layout=compact&theme=radical&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NikhilNellutla&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=Nellutla123&theme=radical&hide_border=true" height="180px"/>
 </p>
 
 ---
@@ -84,7 +84,7 @@ Experienced in developing **intelligent applications, MLOps pipelines**, and rea
 ## 🐍 GitHub Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/NikhilNellutla/NikhilNellutla/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Nellutla123/Nellutla123/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -100,24 +100,8 @@ Experienced in developing **intelligent applications, MLOps pipelines**, and rea
 <p align="center">
   <a href="mailto:nellutlanikhil1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/NikhilNellutla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/NikhilNellutla"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Nellutla123"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="tel:+919381664500"><img src="https://img.shields.io/badge/Phone-%2B91%209381664500-brightgreen?style=for-the-badge" /></a>
-</p>
-
----
-
-## 💬 Dev Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 😂 Random Dev Meme  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NikhilNellutla/NikhilNellutla/main/memes/meme1.png" width="400px" />
 </p>
 
 ---
