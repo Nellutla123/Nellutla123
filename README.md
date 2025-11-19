@@ -80,14 +80,15 @@ Experienced in developing **intelligent applications, MLOps pipelines**, and rea
 </p>
 
 ---
-
-## 🐍 GitHub Contribution Snake  
+<!--
+ ## 🐍 GitHub Contribution Snake 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nellutla123/Nellutla123/output/github-contribution-grid-snake.svg" />
-</p>
+ <img src="https://raw.githubusercontent.com/Nellutla123/Nellutla123/output/github-contribution-grid-snake.svg" /> 
+</p> 
 
 ---
+-->
 
 ## 🎓 Education  
 - **B.Tech in Computer Science & Engineering** – TCTK, Karimnagar (2020–2024)  
